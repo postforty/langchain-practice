@@ -10,5 +10,6 @@ dependencies = [
     "jupyterlab>=4.4.10",
     "langchain>=1.0.5",
     "langchain-google-genai>=3.0.0",
+    "langgraph-checkpoint-postgres>=3.0.1",
     "python-dotenv>=1.2.1",
 ]
